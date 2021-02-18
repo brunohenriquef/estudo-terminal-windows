@@ -2,4 +2,3 @@
 
 * Navegando entre diretórios: `cd pathDoArquivo`
    * Voltando uma pasta: `cd ..`
-* Lala
